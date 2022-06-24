@@ -1,6 +1,6 @@
 import cv2
 import time
-import HandTrackingModule as htm
+from HandTracking import HandTrackingModule as htm
 
 pTime = 0
 cTime = 0
